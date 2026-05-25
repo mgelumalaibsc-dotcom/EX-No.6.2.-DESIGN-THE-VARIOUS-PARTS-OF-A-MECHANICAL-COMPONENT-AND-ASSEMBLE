@@ -50,9 +50,10 @@ If the components do not fit properly into the slots, it can be moved into the s
 ## OUTPUT:
 
  
+<img width="887" height="634" alt="{BD621C02-754B-488A-B0C4-1C78E359962A}" src="https://github.com/user-attachments/assets/497d8d0e-f747-4d15-a766-2bd62bd71328" />
 
 
-<img width="895" height="638" alt="{AA155875-D2C6-41CE-A828-AD43C5DB4966}" src="https://github.com/user-attachments/assets/e8254d8c-f1a4-461d-b69b-7f09c5a02779" />
+
 
 
 ## RESULT:
